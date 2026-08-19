@@ -1,0 +1,48 @@
+{
+  "electronics": [
+    "phone",
+    "mobile",
+    "cellphone",
+    "smartphone",
+    "laptop",
+    "computer",
+    "tablet",
+    "printer",
+    "router",
+    "television",
+    "tv",
+    "screen"
+  ],
+  "appliances": [
+    "fridge",
+    "refrigerator",
+    "washing machine",
+    "washer",
+    "dryer",
+    "dishwasher",
+    "oven",
+    "air conditioner",
+    "vacuum cleaner"
+  ],
+  "clothing": [
+    "clothes",
+    "clothing",
+    "shirt",
+    "pants",
+    "trousers",
+    "jacket",
+    "dress",
+    "textile",
+    "fabric"
+  ],
+  "furniture_household": [
+    "furniture",
+    "table",
+    "chair",
+    "sofa",
+    "couch",
+    "cupboard",
+    "cabinet",
+    "household goods"
+  ] 
+}

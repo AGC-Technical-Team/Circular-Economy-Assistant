@@ -1,0 +1,6 @@
+google-genai
+python-dotenv
+pydantic
+streamlit
+
+# u run this line to install pacakges python -m pip install -r requirements.txt

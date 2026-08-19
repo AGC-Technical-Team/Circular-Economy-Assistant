@@ -1,0 +1,647 @@
+[
+  {
+    "id": "res_0001",
+    "organization_name": "arcenciel",
+    "service_name": "La Brocante",
+    "branch_id": "zalka",
+    "category": "furniture_household",
+    "accepted_items": [
+      "table",
+      "chair",
+      "cupboard",
+      "household_goods"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse",
+      "resell"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "zalka"
+    ],
+    "pickup_or_dropoff": "dropoff",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-20",
+    "next_review_date": "2026-10-20",
+    "verification_status": "verified",
+    "confidence_level": "high",
+    "warnings": [
+      "Contact the service before transporting large furniture.",
+      "Confirm item-condition restrictions and transport costs."
+    ],
+    "notes": "Pickup availability and acceptance of heavily damaged furniture have not been confirmed."
+  },
+  {
+    "id": "res_0002",
+    "organization_name": "arcenciel",
+    "service_name": "La Brocante",
+    "branch_id": "damour",
+    "category": "furniture_household",
+    "accepted_items": [
+      "table",
+      "chair",
+      "cupboard",
+      "household_goods"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse",
+      "resell"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "damour"
+    ],
+    "pickup_or_dropoff": "dropoff",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified",
+    "confidence_level": "high",
+    "warnings": [
+      "Contact the service before transporting large furniture.",
+      "Confirm item-condition restrictions and transport costs."
+    ],
+    "notes": "Pickup availability and acceptance of heavily damaged furniture have not been confirmed."
+  },
+  {
+    "id": "res_0003",
+    "organization_name": "FabricAID",
+    "service_name": "Clothing Collection and Redistribution",
+    "branch_id": "lebanon_collection_network",
+    "category": "clothing",
+    "accepted_items": [
+      "clothes",
+      "shirt",
+      "pants",
+      "jacket",
+      "dress"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "lebanon"
+    ],
+    "pickup_or_dropoff": "both",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Confirm that the nearest collection bin is currently active.",
+      "Contact FabricAID to confirm pickup limits and conditions.",
+      "Confirm shoes, bags, bedding and fabric scraps before donating."
+    ],
+    "notes": "The research document reports approximately 300 clothing collection bins, but does not list individually verified bin locations."
+  },
+  {
+    "id": "res_0004",
+    "organization_name": "arcenciel",
+    "service_name": "La Boutique",
+    "branch_id": "sed_el_bouchrieh",
+    "category": "clothing",
+    "accepted_items": [
+      "clothes",
+      "shirt",
+      "pants",
+      "jacket",
+      "dress",
+      "accessories"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse",
+      "resell"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "sed el bouchrieh"
+    ],
+    "pickup_or_dropoff": "both",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Confirm this branch's opening hours before visiting.",
+      "Confirm pickup coverage, fees and quantity limits.",
+      "Confirm unusual accessories or textiles before donating."
+    ],
+    "notes": "Donated clothing and accessories may be reused, sold affordably, provided to people in need or used for upcycling."
+  },
+  {
+    "id": "res_0005",
+    "organization_name": "arcenciel",
+    "service_name": "La Boutique",
+    "branch_id": "taanayel",
+    "category": "clothing",
+    "accepted_items": [
+      "clothes",
+      "shirt",
+      "pants",
+      "jacket",
+      "dress",
+      "accessories"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse",
+      "resell"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "taanayel"
+    ],
+    "pickup_or_dropoff": "both",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Confirm this branch's opening hours before visiting.",
+      "Confirm pickup coverage, fees and quantity limits.",
+      "Confirm unusual accessories or textiles before donating."
+    ],
+    "notes": "Donated clothing and accessories may be reused, sold affordably, provided to people in need or used for upcycling."
+  },
+  {
+    "id": "res_0006",
+    "organization_name": "arcenciel",
+    "service_name": "La Boutique",
+    "branch_id": "damour",
+    "category": "clothing",
+    "accepted_items": [
+      "clothes",
+      "shirt",
+      "pants",
+      "jacket",
+      "dress",
+      "accessories"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse",
+      "resell"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "damour"
+    ],
+    "pickup_or_dropoff": "both",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Confirm this branch's opening hours before visiting.",
+      "Confirm pickup coverage, fees and quantity limits.",
+      "Confirm unusual accessories or textiles before donating."
+    ],
+    "notes": "Donated clothing and accessories may be reused, sold affordably, provided to people in need or used for upcycling."
+  },
+  {
+    "id": "res_0007",
+    "organization_name": "arcenciel",
+    "service_name": "La Boutique",
+    "branch_id": "halba",
+    "category": "clothing",
+    "accepted_items": [
+      "clothes",
+      "shirt",
+      "pants",
+      "jacket",
+      "dress",
+      "accessories"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "donate",
+      "reuse",
+      "resell"
+    ],
+    "condition_accepted": [
+      "usable",
+      "worn"
+    ],
+    "locations_covered": [
+      "halba"
+    ],
+    "pickup_or_dropoff": "both",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Confirm this branch's opening hours before visiting.",
+      "Confirm pickup coverage, fees and quantity limits.",
+      "Confirm unusual accessories or textiles before donating."
+    ],
+    "notes": "Donated clothing and accessories may be reused, sold affordably, provided to people in need or used for upcycling."
+  },
+  {
+    "id": "res_0008",
+    "organization_name": "arcenciel",
+    "service_name": "DERE Recyclable Waste Unit",
+    "branch_id": "collection_and_dropoff",
+    "category": "furniture_household",
+    "accepted_items": [
+      "recyclables"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "recycle"
+    ],
+    "condition_accepted": [
+      "end_of_life"
+    ],
+    "locations_covered": [
+      "beirut",
+      "keserwan",
+      "metn",
+      "bekaa"
+    ],
+    "pickup_or_dropoff": "both",
+    "fee_status": "conditional",
+    "fee_details": "A collection fee may apply.",
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Contact the service to confirm that your exact material is accepted.",
+      "Confirm preparation requirements, minimum quantities and collection fees.",
+      "Confirm the current opening hours of the receiving center."
+    ],
+    "notes": "The research confirms recyclable-material collection and drop-off, but does not confirm the current detailed material list."
+  },
+  {
+    "id": "res_0009",
+    "organization_name": "VerdeTech",
+    "service_name": "Electronic Waste Collection",
+    "branch_id": "lebanon_electronics_collection",
+    "category": "electronics",
+    "accepted_items": [
+      "phone",
+      "laptop",
+      "tablet",
+      "printer",
+      "router",
+      "television",
+      "screen",
+      "lamp",
+      "small_electrical_device"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "recycle"
+    ],
+    "condition_accepted": [
+      "non_working",
+      "end_of_life"
+    ],
+    "locations_covered": [
+      "lebanon"
+    ],
+    "pickup_or_dropoff": "pickup",
+    "fee_status": "free",
+    "fee_details": "The official information describes collection and handling as free.",
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Contact VerdeTech before arranging collection.",
+      "Confirm pickup scheduling and quantity limits.",
+      "Ask for special instructions before submitting loose batteries.",
+      "Confirm whether free collection applies to the specific household request."
+    ],
+    "notes": "Collected electronic waste is reported to be stored in Mkalles before processing or shipment."
+  },
+  {
+    "id": "res_0010",
+    "organization_name": "VerdeTech",
+    "service_name": "Electrical Appliance Waste Collection",
+    "branch_id": "lebanon_appliance_collection",
+    "category": "appliances",
+    "accepted_items": [
+      "refrigerator",
+      "air_conditioner",
+      "washing_machine",
+      "dryer",
+      "dishwasher",
+      "oven",
+      "vacuum_cleaner"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "recycle"
+    ],
+    "condition_accepted": [
+      "non_working",
+      "end_of_life"
+    ],
+    "locations_covered": [
+      "lebanon"
+    ],
+    "pickup_or_dropoff": "pickup",
+    "fee_status": "free",
+    "fee_details": "The official information describes collection and handling as free.",
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "Contact VerdeTech before arranging collection.",
+      "Confirm that the exact appliance is currently accepted.",
+      "Confirm pickup scheduling and quantity limits.",
+      "Confirm whether free collection applies to the specific household request."
+    ],
+    "notes": "This separate record allows the application to match appliance requests using its controlled appliance category."
+  },
+  {
+    "id": "res_0011",
+    "organization_name": "Samsung Lebanon",
+    "service_name": "Authorized Service Locator",
+    "branch_id": "official_electronics_locator",
+    "category": "electronics",
+    "accepted_items": [
+      "samsung_phone",
+      "samsung_tablet",
+      "samsung_television",
+      "samsung_screen"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "repair"
+    ],
+    "condition_accepted": [
+      "damaged_repairable",
+      "non_working"
+    ],
+    "locations_covered": [
+      "lebanon"
+    ],
+    "pickup_or_dropoff": "unknown",
+    "fee_status": "conditional",
+    "fee_details": "Fees depend on the product and its warranty status.",
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "This service is only for Samsung products.",
+      "Use Samsung's official locator for current center details.",
+      "Pickup is not confirmed for all products.",
+      "Fees depend on warranty status and the required repair."
+    ],
+    "notes": "Individual service-center addresses are not copied because they may change."
+  },
+  {
+    "id": "res_0012",
+    "organization_name": "Samsung Lebanon",
+    "service_name": "Authorized Service Locator",
+    "branch_id": "official_appliance_locator",
+    "category": "appliances",
+    "accepted_items": [
+      "samsung_refrigerator",
+      "samsung_washing_machine",
+      "samsung_dryer",
+      "samsung_dishwasher",
+      "samsung_oven",
+      "samsung_air_conditioner",
+      "samsung_vacuum_cleaner"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "repair"
+    ],
+    "condition_accepted": [
+      "damaged_repairable",
+      "non_working"
+    ],
+    "locations_covered": [
+      "lebanon"
+    ],
+    "pickup_or_dropoff": "unknown",
+    "fee_status": "conditional",
+    "fee_details": "Fees depend on the product and its warranty status.",
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "verified_with_warning",
+    "confidence_level": "medium",
+    "warnings": [
+      "This service is only for Samsung products.",
+      "Use Samsung's official locator for current center details.",
+      "Pickup is not confirmed for all products.",
+      "Fees depend on warranty status and the required repair."
+    ],
+    "notes": "This separate record allows Samsung appliance requests to use the controlled appliance category."
+  },
+  {
+    "id": "res_0013",
+    "organization_name": "FixLeb",
+    "service_name": "Home Appliance Repair",
+    "branch_id": "zgharta_tripoli_road",
+    "category": "appliances",
+    "accepted_items": [
+      "washing_machine",
+      "oven"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "repair"
+    ],
+    "condition_accepted": [
+      "damaged_repairable",
+      "non_working"
+    ],
+    "locations_covered": [
+      "zgharta",
+      "tripoli"
+    ],
+    "pickup_or_dropoff": "unknown",
+    "fee_status": "unknown",
+    "fee_details": null,
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "needs_verification",
+    "confidence_level": "low",
+    "warnings": [
+      "This resource requires direct verification before it can be recommended.",
+      "Confirm current regional coverage.",
+      "Confirm whether repairs take place at home or in a workshop.",
+      "Confirm diagnostic fees, repair warranties and pickup availability."
+    ],
+    "notes": "The website describes multi-brand appliance repair, but the research document recommends keeping this record hidden until direct verification is completed."
+  },
+  {
+    "id": "res_0014",
+    "organization_name": "Live Love Recycle",
+    "service_name": "Application-Based Household Collection",
+    "branch_id": "mobile_application",
+    "category": "furniture_household",
+    "accepted_items": [
+      "recyclables"
+    ],
+    "excluded_items": [],
+    "supported_intents": [
+      "recycle"
+    ],
+    "condition_accepted": [
+      "end_of_life"
+    ],
+    "locations_covered": [],
+    "pickup_or_dropoff": "pickup",
+    "fee_status": "free",
+    "fee_details": "The application listing describes the collection service as free.",
+    "contact_required": true,
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "source_url": null,
+    "last_verified_date": "2026-07-25",
+    "next_review_date": "2026-10-25",
+    "verification_status": "needs_verification",
+    "confidence_level": "low",
+    "warnings": [
+      "This resource requires direct verification before it can be recommended.",
+      "Confirm that the application and collection service are currently operating.",
+      "Confirm current neighborhoods, accepted materials and preparation requirements.",
+      "Confirm pickup limits and any current drop-off locations."
+    ],
+    "notes": "No locations are stored because current service coverage was not confirmed."
+  }
+]
